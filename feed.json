@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "loveconnect24",
+    "description": "",
+    "home_page_url": "https://loveconnect24.github.io/blog",
+    "feed_url": "https://loveconnect24.github.io/blog/feed.json",
+    "user_comment": "",
+    "icon": "https://loveconnect24.github.io/blog/media/website/logo3.png",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+    ]
+}
